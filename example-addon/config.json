@@ -1,0 +1,7 @@
+{
+    "type": "addon",
+    "name": "{PLUGIN NAME}",
+    "description": "{PLUGIN DESCRIPTION}",
+    "entry_file": "{PLUGIN ENTRY FILE NAME}",
+    "output": "{PLUGIN OUTPUT FILE NAME}"
+}
